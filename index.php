@@ -16,7 +16,7 @@
      	<label>User Name</label>
      	<input type="password" name="password" placeholder="Password"><br>
 
-     	<button type="submit">Login</button>
+     	<button type="submit">Login Now</button>
      </form>
 </body>
 </html>
